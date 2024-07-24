@@ -16,7 +16,7 @@
 #     n += 1
 # print("總奇數個數:", n)
 
-#3. ex:找出整數平方根(if -else)
+#3. ex:找出整數平方根(if-else)
 x = int(input("請輸入一整數: "))
 for i in range(x):      #i從 0 ~ x-1
     if i*i == x:
