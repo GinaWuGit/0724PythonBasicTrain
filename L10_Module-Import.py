@@ -17,4 +17,4 @@ sys.path.append("modules")      #在模組搜尋路徑列表中【新增路徑�
 print(sys.path)
 import geometry
 result = geometry.slope(1, 3, 5, 11)
-print(result)
+print(result),o
